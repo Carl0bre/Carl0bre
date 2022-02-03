@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working in:**  IES Javier García Téllez :house: 
--  **Teaching :** industrial communications and networks :computer:	
+-  **Teaching :** Industrial Communications and Networks :computer:	
 -  **Ask me about :** Anything!, I'm happy to help :v:
 
 
