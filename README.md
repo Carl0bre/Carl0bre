@@ -1,19 +1,18 @@
 <h1 align="center"> Hello, I'm Juan Carlos Obregón Crespo 👨‍💻 </h1>
 
-<h3 align="center">  Professor of automation and industrial robotics </h3> <br>
+<h3 align="center">  Professor of automation and industrial robotics </h3> 
+<h3 align="center">  and I am passionate about maker culture </h3> <br>
 
 <p align="center"> 
-<a href="https://twitter.com/_Carlobre_"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_Carlobre_"></a>
+<a href="https://twitter.com/_Carlobre_"><img alt="Twitter" src="https://img.shields.io/badge/-Carlobre-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_Carlobre_"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Web Development :computer: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
+-  **Working in:**  IES Javier García Téllez :house: 
+-  **Teaching :** industrial communications and networks :computer:	
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
