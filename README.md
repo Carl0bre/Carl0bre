@@ -23,4 +23,4 @@
 [![Carl0bre's github stats](https://github-readme-stats.vercel.app/api?username=Carl0bre&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Carl0bre/github-readme-stats)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⭐️ From [Carlobre](http://www.github.com/Carl0bre)
+⭐️ From [Carlobre](http://www.github.com/Carl0bre) <p align="right"><img src="https://github.com/Carl0bre/Calidad_aire/blob/master/test/logo.png"  alt="Carlobre" /></p>
